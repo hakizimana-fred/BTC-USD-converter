@@ -1,3 +1,5 @@
+// https://stackoverflow.com/questions/63348985/how-to-create-btc-to-usd-calculator-with-vice-versa-conversion
+
 const currencyField = document.querySelectorAll('.currencyField')
 
 let convFrom
